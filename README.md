@@ -25,6 +25,14 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
 
+
+## Official Websites
+* [The R Project for Statistical Computing](https://www.r-project.org)
+* [CRAN](https://cran.r-project.org) - The Comprehensive R Archive Network
+* [MRAN](https://mran.microsoft.com) - Microsoft R Application Network
+
+
+
 ## R Heroes at YouTube
 > sorted alphabetically :heart:
 
