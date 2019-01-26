@@ -3,8 +3,8 @@
 In-Process...
 
 
-![R](https://github.com/NajiElKotob/Awesome-R/blob/master/Images/R-logo.png)  
-:blue_heart: 
+![R](https://github.com/NajiElKotob/Awesome-R/blob/master/Images/R_logo.png)  
+:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
 
 ```sh
 R is a programming language and free software environment for statistical 
