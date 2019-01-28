@@ -44,7 +44,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Books
 ### R Books
-> [Featured Power BI Books!](http://bit.ly/)
+> [Featured R Books!](http://bit.ly/)
 
 ### Related Books
 
