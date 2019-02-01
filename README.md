@@ -14,6 +14,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 ## Table of contents
 
 * [R Heroes at YouTube :star2:](#r-heroes-at-youtube)
+* [R Notebooks](#r-notebooks)
 * [Blogs](#blogs)
 * [Books](#books)
 * [Groups](#groups)
@@ -37,7 +38,9 @@ computing and graphics supported by the R Foundation for Statistical Computing
 > sorted alphabetically :heart:
 
 
-
+## R Notebooks
+* [R Markdown](https://rmarkdown.rstudio.com)
+* [Try Jupyter](https://jupyter.org/try)
 
 ## Blogs
 
