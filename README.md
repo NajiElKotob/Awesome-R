@@ -13,7 +13,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Table of contents
 
-* [R Heroes at YouTube :star2:](#r-heroes-at-youtube)
+* [R at YouTube :star2:](#r-heroes-at-youtube)
 * [R Notebooks](#r-notebooks)
 * [Blogs](#blogs)
 * [Books](#books)
@@ -34,9 +34,9 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 
 
-## R Heroes at YouTube
+## R at YouTube
 > sorted alphabetically :heart:
-
+* [R Programming by Tutorials Point (India)](https://www.youtube.com/watch?v=7076ZuAwUn8&index=1&list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t)
 
 ## R Notebooks
 * [R Markdown](https://rmarkdown.rstudio.com)
@@ -47,7 +47,8 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Books
 ### R Books
-> [Featured R Books!](http://bit.ly/)
+* [R for Data Science](https://amzn.to/2SFdmoL) - Import, Tidy, Transform, Visualize, and Model Data
+* [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
 
 ### Related Books
 
