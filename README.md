@@ -13,7 +13,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Table of contents
 
-* [R at YouTube :star2:](#r-heroes-at-youtube)
+* [R at YouTube]:star2:(#r-heroes-at-youtube)
 * [R Notebooks](#r-notebooks)
 * [Blogs](#blogs)
 * [Books](#books)
@@ -21,9 +21,6 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Tools](#tools)
 * [Learning](#learning)
 * [Datasets](#datasets)
-* [Exam](#exam)
-* [Special Features](#special-features)
-* [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
 
 
@@ -50,19 +47,17 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [R for Data Science](https://amzn.to/2SFdmoL) - Import, Tidy, Transform, Visualize, and Model Data
 * [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
 
-### Related Books
 
-### Docs
 
-### Whitepapers
+### Articles
 
 
 ## Groups
 ### LinkedIn Groups
-
+* [R|Python, MSSQL and Data Science Community](https://www.linkedin.com/groups/12049975/) - Rolando Rangel
 
 ## Tools
-
+* [RStudio](https://www.rstudio.com)
 
 ## Learning
 
@@ -79,13 +74,8 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
 
-## Exam
 
-
-## Special Features
-
-
-## Competitive Analysis
+## R vs Python
 
 ## Summits and Conferences
 
