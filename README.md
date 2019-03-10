@@ -21,6 +21,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Tools](#tools)
 * [Learning](#learning)
 * [Datasets](#datasets)
+* [Resources](#resources)
 * [Summits and Conferences](#summits-and-conferences)
 
 
@@ -78,9 +79,11 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
-
+## Resources
+* [Schema.org](https://schema.org/) - Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ## R vs Python
+
 
 ## Summits and Conferences
 
