@@ -1,6 +1,6 @@
 # Awesome R
 
-In-Process...
+In-Process (Alpha Version)
 
 
 ![R](https://github.com/NajiElKotob/Awesome-R/blob/master/Images/R_logo.png)  
@@ -50,7 +50,9 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 
 
-### Articles
+### Cases
+* [Animated Bar Chart](https://github.com/amrrs/animated_bar_charts_in_R)
+* [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/tag/ggplot2/)
 
 
 ## Groups
