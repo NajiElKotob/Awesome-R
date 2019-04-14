@@ -19,6 +19,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Groups](#groups)
 * [Tools](#tools)
 * [Learning](#learning)
+* [Statistics](#statistics)
 * [Datasets](#datasets)
 * [Summits and Conferences](#summits-and-conferences)
 
@@ -60,6 +61,11 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [RStudio](https://www.rstudio.com)
 
 ## Learning
+
+## Statistics
+* [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
+* [Mean and Median by Stat Trek](https://stattrek.com/descriptive-statistics/mean-median.aspx)
+
 
 ## R Samples
 
