@@ -62,9 +62,11 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Learning
 
-## Statistics
+### Statistics
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
-* [Mean and Median by Stat Trek](https://stattrek.com/descriptive-statistics/mean-median.aspx)
+* [Mean and Median](https://stattrek.com/descriptive-statistics/mean-median.aspx) - Stat Trek
+    * [R - Mean, Median, Mode](https://rstudio-pubs-static.s3.amazonaws.com/242140_d3bc74d91e8e47febc2e019762a4d877.html)
+
 
 
 ## R Samples
