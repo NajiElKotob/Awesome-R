@@ -12,7 +12,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 ```
 
 ## Table of contents
-* [R at YouTube]:star2:(#r-heroes-at-youtube)
+* [R at YouTube](#r-heroes-at-youtube)
 * [R Notebooks](#r-notebooks)
 * [Blogs](#blogs)
 * [Books](#books)
