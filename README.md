@@ -12,7 +12,6 @@ computing and graphics supported by the R Foundation for Statistical Computing
 ```
 
 ## Table of contents
-
 * [R at YouTube]:star2:(#r-heroes-at-youtube)
 * [R Notebooks](#r-notebooks)
 * [Blogs](#blogs)
@@ -21,7 +20,6 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Tools](#tools)
 * [Learning](#learning)
 * [Datasets](#datasets)
-* [Resources](#resources)
 * [Summits and Conferences](#summits-and-conferences)
 
 
@@ -49,7 +47,6 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
 
 
-
 ### Cases
 * [Animated Bar Chart](https://github.com/amrrs/animated_bar_charts_in_R)
 * [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/tag/ggplot2/)
@@ -67,22 +64,8 @@ computing and graphics supported by the R Foundation for Statistical Computing
 ## R Samples
 
 ## Datasets
-* [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
-* [Gapminder](https://www.gapminder.org/data)
-* [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
-* [Kaggle](https://www.kaggle.com/datasets)
-* [The World Bank](http://data.worldbank.org)
-* [U.S. Census Bureau](https://www.census.gov/people)
-* [U.S Data](http://catalog.data.gov/dataset)
-* [UN Data](http://data.un.org)
-* [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - Center for Machine Learning and Intelligent Systems
-* [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
-* [OpenML](https://www.openml.org) - Find or add data to analyse
-* [Open Datasets](https://ai.google/tools/datasets) - Google AI
-* [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
+* [Datasets](https://github.com/NajiElKotob/Awesome-Power-BI#datasets)
 
-## Resources
-* [Schema.org](https://schema.org/) - Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ## R vs Python
 
