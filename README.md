@@ -66,7 +66,8 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 * [Mean and Median](https://stattrek.com/descriptive-statistics/mean-median.aspx) - Stat Trek
     * [R - Mean, Median, Mode](https://rstudio-pubs-static.s3.amazonaws.com/242140_d3bc74d91e8e47febc2e019762a4d877.html)
-
+* [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
+    * [Boxplots](https://www.statmethods.net/graphs/boxplot.html) - Quick-R
 
 
 ## R Samples
