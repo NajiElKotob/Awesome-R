@@ -12,15 +12,18 @@ computing and graphics supported by the R Foundation for Statistical Computing
 ```
 
 ## Table of contents
+* [Official Websites](#official-websites)
 * [R at YouTube](#r-heroes-at-youtube)
 * [R Notebooks](#r-notebooks)
+* [Tools](#tools)
 * [Blogs](#blogs)
 * [Books](#books)
 * [Groups](#groups)
-* [Tools](#tools)
+* [Cases](#cases)
 * [Learning](#learning)
 * [Statistics](#statistics)
 * [Datasets](#datasets)
+* [R vs Python](#r-vs-python)
 * [Summits and Conferences](#summits-and-conferences)
 
 
@@ -28,7 +31,6 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [The R Project for Statistical Computing](https://www.r-project.org)
 * [CRAN](https://cran.r-project.org) - The Comprehensive R Archive Network
 * [MRAN](https://mran.microsoft.com) - Microsoft R Application Network
-
 
 
 ## R at YouTube
@@ -39,6 +41,10 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [R Markdown](https://rmarkdown.rstudio.com)
 * [Try Jupyter](https://jupyter.org/try)
 
+## Tools
+* [RStudio](https://www.rstudio.com)
+
+
 ## Blogs
 
 
@@ -47,18 +53,16 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [R for Data Science](https://amzn.to/2SFdmoL) - Import, Tidy, Transform, Visualize, and Model Data
 * [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
 
-
-### Cases
-* [Animated Bar Chart](https://github.com/amrrs/animated_bar_charts_in_R)
-* [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/tag/ggplot2/)
-
-
 ## Groups
 ### LinkedIn Groups
 * [R|Python, MSSQL and Data Science Community](https://www.linkedin.com/groups/12049975/) - Rolando Rangel
 
-## Tools
-* [RStudio](https://www.rstudio.com)
+
+## Cases
+* [Animated Bar Chart](https://github.com/amrrs/animated_bar_charts_in_R)
+* [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/tag/ggplot2/)
+
+
 
 ## Learning
 
