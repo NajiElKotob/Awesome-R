@@ -75,7 +75,11 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 
 ## R vs Python
+* [TIOBE Index for R](https://www.tiobe.com/tiobe-index/r/)
+* [TIOBE Index for Python](https://www.tiobe.com/tiobe-index/python/)
 * [R vs Python vs Scala](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0212jm,%2Fm%2F05z1_,%2Fm%2F091hdj) - Google Trend
+* [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
+
 
 ## Summits and Conferences
 
