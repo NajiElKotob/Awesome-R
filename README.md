@@ -70,14 +70,12 @@ computing and graphics supported by the R Foundation for Statistical Computing
     * [Boxplots](https://www.statmethods.net/graphs/boxplot.html) - Quick-R
 
 
-## R Samples
-
 ## Datasets
 * [Datasets](https://github.com/NajiElKotob/Awesome-Power-BI#datasets)
 
 
 ## R vs Python
-
+* [R vs Python vs Scala](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0212jm,%2Fm%2F05z1_,%2Fm%2F091hdj) - Google Trend
 
 ## Summits and Conferences
 
