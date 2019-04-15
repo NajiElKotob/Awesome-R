@@ -21,7 +21,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Groups](#groups)
 * [Cases](#cases)
 * [Learning](#learning)
-* [Statistics](#statistics)
+   * [Statistics](#statistics)
 * [Datasets](#datasets)
 * [R vs Python](#r-vs-python)
 * [Summits and Conferences](#summits-and-conferences)
