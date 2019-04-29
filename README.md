@@ -53,6 +53,11 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [R for Data Science](https://amzn.to/2SFdmoL) - Import, Tidy, Transform, Visualize, and Model Data
 * [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
 
+### Statistics
+
+### Graphics
+
+
 ## Groups
 ### LinkedIn Groups
 * [R|Python, MSSQL and Data Science Community](https://www.linkedin.com/groups/12049975/) - Rolando Rangel
