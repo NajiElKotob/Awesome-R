@@ -19,7 +19,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [Blogs](#blogs)
 * [Books](#books)
 * [Groups](#groups)
-* [Cases](#cases)
+* [Cases and Articles](#cases-and-articles)
 * [Learning](#learning)
    * [Statistics](#statistics)
 * [Datasets](#datasets)
@@ -58,11 +58,13 @@ computing and graphics supported by the R Foundation for Statistical Computing
 * [R|Python, MSSQL and Data Science Community](https://www.linkedin.com/groups/12049975/) - Rolando Rangel
 
 
-## Cases
+## Cases and Articles
+### Cases
 * [Animated Bar Chart](https://github.com/amrrs/animated_bar_charts_in_R)
 * [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/tag/ggplot2/)
 
-
+### Articles
+* [Exploratory Data Analysis in R](https://blog.datascienceheroes.com/exploratory-data-analysis-in-r-intro/)
 
 ## Learning
 
