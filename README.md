@@ -43,19 +43,16 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 ## Tools
 * [RStudio](https://www.rstudio.com)
-
+* [R Tools for Visual Studio](https://visualstudio.microsoft.com/vs/features/rtvs/)
 
 ## Blogs
-
+* [R Bloggers](https://www.r-bloggers.com)
+* [Studio Blog](https://blog.rstudio.com)
 
 ## Books
 ### R Books
 * [R for Data Science](https://amzn.to/2SFdmoL) - Import, Tidy, Transform, Visualize, and Model Data
 * [Practical Statistics for Data Scientists](https://amzn.to/2TFncUK) - 50 Essential Concepts
-
-### Statistics
-
-### Graphics
 
 
 ## Groups
