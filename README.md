@@ -1,7 +1,5 @@
 # Awesome R
 
-In-Process (Alpha Version)
-
 
 ![R](https://github.com/NajiElKotob/Awesome-R/blob/master/Images/R_logo.png)  
 :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
@@ -79,8 +77,7 @@ computing and graphics supported by the R Foundation for Statistical Computing
 
 
 ## Datasets
-* [Datasets](https://github.com/NajiElKotob/Awesome-Power-BI#datasets)
-
+* [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 ## R vs Python
 * [TIOBE Index for R](https://www.tiobe.com/tiobe-index/r/)
